@@ -1,0 +1,16 @@
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyDhd5yVY0TLWP1Nx-qoddLuJdRcn-roAAg",
+    authDomain: "crwn-db-85c28.firebaseapp.com",
+    databaseURL: "https://crwn-db-85c28.firebaseio.com",
+    projectId: "crwn-db-85c28",
+    storageBucket: "crwn-db-85c28.appspot.com",
+    messagingSenderId: "282784730576",
+    appId: "1:282784730576:web:998a518a1f8be5a48cfdd5",
+    measurementId: "G-418QEL0Y5K"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
